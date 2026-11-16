@@ -1,13 +1,18 @@
+<p align="center">
+  <a href="https://hassan6237.github.io/Hassan6237/"><b>🌐 View my portfolio website: hassan6237.github.io/Hassan6237</b></a>
+</p>
+
 <h1 align="center">Hi, I'm Hassan Ali 👋</h1>
 
 <p align="center">
-  <b>Computer Science (Year in Industry) student at the University of Kent</b><br/>
-  Python · Flask · SQL · Java — I build working software fast and ship it to real users.
+  <b>Computer Science student and software developer: Python, data and AI automation</b><br/>
+  I build working software fast and ship it to real users.
 </p>
 
 <p align="center">
+  <a href="https://hassan6237.github.io/Hassan6237/"><img src="https://img.shields.io/badge/Portfolio-hassan6237.github.io-0A0A0B?style=flat" alt="Portfolio website"/></a>
   <a href="https://www.linkedin.com/in/hassan623"><img src="https://img.shields.io/badge/LinkedIn-hassan623-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-2027--28%20industrial%20placement-2ea44f?style=flat" alt="Open to a 2027-28 industrial placement"/>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Based%20in-UK%20·%20open%20to%20relocate-555?style=flat" alt="Based in the UK, open to relocate"/>
 </p>
 
@@ -15,11 +20,13 @@
 
 ### About me
 
-- 🎓 Second-year **BSc Computer Science with a Year in Industry** at the University of Kent. Year 1: **Distinction** (91.5% average).
-- 💼 **Software Development Intern at Romax Digital.** I replaced a manual Excel workflow with a Python/Flask + SQLite dashboard. I owned it from requirements to handover, delivered a working prototype in 3 weeks and got it approved for live rollout.
-- 🏆 I won 1st place out of 107 entrants at Hackabury, which led to the internship. I also won the *Hackiest Hack* award at Kent-HackIt 2026.
-- 🧑‍🏫 Paid **Peer Tutor** for 30+ first-year CS students (Python and Java), and Freshers/Welfare Officer for the Kent Computer Science Society.
-- 🔭 **Looking for:** a 2027–28 placement (9–15 months) in software engineering, data, AI/ML, DevOps or tech consulting. Available full-time from June 2027.
+- 🎓 Second-year **BSc Computer Science with Year in Industry** at the University of Kent. Year 1: **Distinction** (91.5% average).
+- 💼 **Software Development Intern at Romax Digital.** I replaced a manual Excel workflow with one Python/Flask dashboard backed by SQLite. I took it from stakeholder requirements to handover, delivered a working prototype in 3 weeks and got it approved for live rollout.
+- 🏆 I took **1st of 107** at Hackabury 2026, which led to the internship. I also won the *Hackiest Hack Award* at Kent-HackIt 2026 and placed 3rd of 10 teams at the House London #3 Data Hackathon.
+- 🧑‍🏫 Paid **Peer Tutor** for 30+ first-year students (Python and Java), and Freshers Officer / Welfare Officer for the Computer Science Society.
+- 🤖 I use AI tools responsibly: only for work I understand, and I review every output for correctness and security before using it.
+- 🔭 Excited by AI and automation that improve workflows, and by software that drives physical products: hardware, automotive, F1 and aerospace.
+- 📍 Based in the United Kingdom. Open to on-site, hybrid or remote, and willing to relocate anywhere in the UK.
 
 ---
 
@@ -27,10 +34,12 @@
 
 | Project | What it is | Stack | Recognition |
 |---|---|---|---|
-| **[Romax Digital – Wallet Pass Creator](https://github.com/Hassan6237/Romax-Digital)** | Scrapes a brand's website and turns it into real Apple Wallet (`.pkpass`) and Google Wallet passes, with user accounts, saved designs and a dashboard. | Python, Flask, SQLAlchemy, BeautifulSoup, JWT/PKCS#7 signing | 🥇 Romax Digital Challenge winner, Hackabury 2026 (1st of 107) |
-| **[Solace – Financial Capability Platform](https://github.com/Hassan6237/Solace-Fintech)** | Money-skills app for 18–25 year-olds. A profile questionnaire drives personalised lessons, branching scenarios, streaks, rewards and a leaderboard. | Python, Flask, Jinja, JavaScript | Selected from 1,300+ applicants, AI Summit Financial Capability Hackathon 2026 |
-| **[Safe Signal](https://github.com/Hassan6237/kenthackit)** | Raspberry Pi emergency-alert button. 1, 2 or 3 presses send different SMS alerts to trusted contacts through a Flask API and Twilio, with a web dashboard. *(Team project: I built the web frontend.)* | Python, Flask, Twilio API, Raspberry Pi, JavaScript | 🏆 Hackiest Hack Award, Kent-HackIt 2026 |
-| **[Ledger – Expense Tracker](https://github.com/Hassan6237/Money-Tracker)** | Single-page expense tracker with a dashboard, filters, inline editing and Chart.js analytics. Persists in `localStorage` with no build step. [Live demo ▶](https://hassan6237.github.io/Money-Tracker/) | JavaScript, HTML, CSS, Chart.js | — |
+| **[URL-to-Wallet-pass tool](https://github.com/Hassan6237/Romax-Digital)** | Scrapes a brand's website and turns it into branded Apple Wallet and Google Wallet passes. Built solo in 24 hours. [Devpost](https://devpost.com/software/romax-digital) | Python, Flask, BeautifulSoup | 🥇 1st of 107, Romax Digital Challenge winner, Hackabury 2026 |
+| **[Safe Signal](https://github.com/Hassan6237/kenthackit)** | Raspberry Pi emergency-alert device. A button press sends a Twilio SMS with a Google Maps location, for people whose phone has died or who struggle to use a mobile. Team build: I solved button debouncing and Pi-to-laptop networking issues through testing. [Devpost](https://devpost.com/software/safesignal-0crzxo) | Raspberry Pi, GPIO, GPS, Twilio API, Flask REST API, JavaScript | 🏆 Hackiest Hack Award, Kent-HackIt 2026 |
+| **[GoodTerms](https://github.com/Hassan6237/goodterms)** | London rental-matching app on real housing data (Land Registry, EPC, Census 2021). Renters only see homes that would accept them. Team of 3: I researched existing rental platforms, built the frontend and demo, and co-delivered the pitch. | Built in one day with Claude Code | 🥉 3rd of 10 teams, House London #3 Data Hackathon |
+| **[Ledger: Expense Tracker](https://github.com/Hassan6237/Money-Tracker)** | Single-page expense tracker with a dashboard, filters, inline editing and Chart.js analytics. Persists in `localStorage` with no build step. [Live demo ▶](https://hassan6237.github.io/Money-Tracker/) | JavaScript, HTML, CSS, Chart.js | |
+
+More detail on each is on my [portfolio website](https://hassan6237.github.io/Hassan6237/projects.html).
 
 ---
 
@@ -48,6 +57,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat" alt="BeautifulSoup"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/REST%20APIs-6BA539?style=flat&logo=openapiinitiative&logoColor=white" alt="REST APIs"/>
@@ -56,10 +66,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
-**Ways of working:** full software development lifecycle · Agile · ER data modelling · data-validation pipelines · secure authentication and GDPR basics · responsible use of AI coding tools (every AI-generated change reviewed before merge)
+**AI tools:** Claude Code · Claude · GitHub Copilot · Google AI Studio
 
-**Currently learning:** Algorithms, Database Systems, AI and Cyber Security modules · agentic AI workflows (Kent Business School AI Accelerator) · AWS cloud certification (planned early 2027)
+**Ways of working:** full software lifecycle · Agile · data validation pipelines · data modelling (ER diagrams) · secure authentication and GDPR basics
+
+**Currently learning:** Algorithms, Software Development, Database Systems, Web Development, Fundamentals of AI and Fundamentals of Cyber Security (Year 2) · Kent Business School AI Accelerator: agentic workflows and MCP (in progress) · The Data Science Course: Complete Data Science Bootcamp on Udemy (in progress) · AWS cloud certification (planned, Feb–Mar 2027)
 
 ---
 
-<p align="center"><i>Thanks for visiting. The best way to reach me is on <a href="https://www.linkedin.com/in/hassan623">LinkedIn</a>.</i></p>
+<p align="center"><i>Thanks for visiting. The best way to reach me is on <a href="https://www.linkedin.com/in/hassan623">LinkedIn</a>, or see my <a href="https://hassan6237.github.io/Hassan6237/">portfolio website</a>.</i></p>
