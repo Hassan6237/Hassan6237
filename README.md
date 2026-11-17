@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hassan Ali 👋</h1>
 
 <p align="center">
-  <a href="https://hassan6237.github.io/Hassan6237/"><b>🌐 View my portfolio website: hassan6237.github.io/Hassan6237</b></a>
+  <a href="https://hassan6237.github.io/"><b>🌐 View my portfolio website: hassan6237.github.io</b></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hassan6237.github.io/Hassan6237/"><img src="https://img.shields.io/badge/Portfolio-hassan6237.github.io-0A0A0B?style=flat" alt="Portfolio website"/></a>
+  <a href="https://hassan6237.github.io/"><img src="https://img.shields.io/badge/Portfolio-hassan6237.github.io-0A0A0B?style=flat" alt="Portfolio website"/></a>
   <a href="https://www.linkedin.com/in/hassan623"><img src="https://img.shields.io/badge/LinkedIn-hassan623-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Based%20in-UK%20·%20open%20to%20relocate-555?style=flat" alt="Based in the UK, open to relocate"/>
@@ -39,7 +39,7 @@
 | **[GoodTerms](https://github.com/Hassan6237/goodterms)** | London rental-matching app on real housing data (Land Registry, EPC, Census 2021). Renters only see homes that would accept them. Team of 3: I researched existing rental platforms, built the frontend and demo, and co-delivered the pitch. | Built in one day with Claude Code | 🥉 3rd of 10 teams, House London #3 Data Hackathon |
 | **[Ledger: Expense Tracker](https://github.com/Hassan6237/Money-Tracker)** | Single-page expense tracker with a dashboard, filters, inline editing and Chart.js analytics. Persists in `localStorage` with no build step. [Live demo ▶](https://hassan6237.github.io/Money-Tracker/) | JavaScript, HTML, CSS, Chart.js | |
 
-More detail on each is on my [portfolio website](https://hassan6237.github.io/Hassan6237/projects.html).
+More detail on each is on my [portfolio website](https://hassan6237.github.io/projects.html).
 
 ---
 
@@ -74,4 +74,4 @@ More detail on each is on my [portfolio website](https://hassan6237.github.io/Ha
 
 ---
 
-<p align="center"><i>Thanks for visiting. The best way to reach me is on <a href="https://www.linkedin.com/in/hassan623">LinkedIn</a>, or see my <a href="https://hassan6237.github.io/Hassan6237/">portfolio website</a>.</i></p>
+<p align="center"><i>Thanks for visiting. The best way to reach me is on <a href="https://www.linkedin.com/in/hassan623">LinkedIn</a>, or see my <a href="https://hassan6237.github.io/">portfolio website</a>.</i></p>
