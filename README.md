@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hassan Ali 👋</h1>
 
 <p align="center">
-  <a href="https://hassan6237.github.io/"><b>🌐 View my portfolio website: hassan6237.github.io</b></a>
+  <a href="https://hassan6237.github.io"><b>🌐 View my portfolio website: hassan6237.github.io</b></a>
 </p>
 
 <p align="center">
